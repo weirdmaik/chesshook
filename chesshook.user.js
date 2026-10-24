@@ -7,8 +7,8 @@
 // @version     2.3
 // @author      0mlml
 // @description Chess.com Cheat Userscript
-// @updateURL   https://raw.githubusercontent.com/0mlml/chesshook/master/chesshook.user.js
-// @downloadURL https://raw.githubusercontent.com/0mlml/chesshook/master/chesshook.user.js
+// @updateURL   https://raw.githubusercontent.com/weirdmaik/chesshook/main/chesshook.user.js
+// @downloadURL https://raw.githubusercontent.com/weirdmaik/chesshook/main/chesshook.user.js
 // @run-at      document-start
 // ==/UserScript==
 
